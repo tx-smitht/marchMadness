@@ -335,6 +335,9 @@ function Welcome()  {
   return (
     <div>
       <h1>Welcome to the College Basketball App!!!!</h1>
+      <p>This is an app that lists out the information about college
+        basketball teams!
+      </p>
     </div>
   );
 }
